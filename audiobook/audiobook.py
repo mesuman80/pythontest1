@@ -5,3 +5,15 @@ engine = pyttsx3.init()
 for i in book_text:
     engine.say(i)
     engine.runAndWait()
+
+for i in book_text:
+    engine.say(i)
+    engine.runAndWait()
+
+for i in book_text:
+    engine.say(i)
+    engine.runAndWait()
+
+for i in book_text:
+    engine.say(i)
+    engine.runAndWait()
